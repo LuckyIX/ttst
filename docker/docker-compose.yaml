@@ -3,5 +3,5 @@ services:
     image: composer/composer
     volumes:
       - type: bind
-        source: .
+        source: ../
         target: /app
