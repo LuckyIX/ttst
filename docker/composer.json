@@ -1,0 +1,6 @@
+{
+  "name": "luckyix/ttst",
+  "require": {
+    "monolog/monolog": "^3.0"
+  }
+}

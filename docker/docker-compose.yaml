@@ -1,0 +1,7 @@
+services:
+  composer:
+    image: composer/composer
+    volumes:
+      - type: bind
+        source: .
+        target: /app
